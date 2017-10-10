@@ -72,7 +72,7 @@ set_theme(x)
 
 \item{clt_emph2}{stronger Emphasis}
 
-\item{x}{A \code{colt_theme} Object. If \code{x} is missing, colors will be switched
+\item{x}{A \code{colt_theme} Object. If \code{x} is \code{NULL}, colors will be switched
 off}
 }
 \value{

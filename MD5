@@ -1,15 +1,15 @@
-35dfcae9a3a2b4505560c959a2e7a2d4 *DESCRIPTION
+6b4bf552c22a7406f10da79b3d482b1a *DESCRIPTION
 84fe5a9a99c6821d68cb96274ae6dadd *LICENSE
 c1390da9d4c29bee790b5ee8a01da2bb *NAMESPACE
-5e3c773b43a8d4b70aa1096e69d60d91 *NEWS.md
+d5d16598ee03bdc9419f8dcab774aefc *NEWS.md
 10761980a43a9e4800888b77b039690c *R/colt-package.R
-f9b52db736d21988ad387b6e9a06fe43 *R/colt_theme.R
+bc5f45eb6c08b39769234eff4406b24c *R/colt_theme.R
 e4e83d5a19a856d3058abe75339884cd *R/styles.R
-ec59ac46f10922102ce27aa45fa7eb0c *R/zzz.R
+4e5ebddc56b650ab49ed0c1603bb4723 *R/zzz.R
 9839e5dd353618dda925822efe7a835d *README.md
 8b94fa2071eb00f4d9838267e097ccb5 *data/clt_theme_dark.rda
 1940d9abe2da28513407f516ad4a5299 *data/clt_theme_light.rda
-d2c5bfe4fd93a621af0a854092009e23 *inst/default_themes.R
+1d3750f5c1de582b0e6199970c509acb *inst/default_themes.R
 badd3c0dd5c7fbaeec8fe8139af3839a *inst/generate_style_funs.R
 3b554816396730afc5176917f3868797 *inst/images/README-dark.png
 9ce0d1b15e7000fdaa9871e855b3690f *inst/images/README-light.png
@@ -18,5 +18,5 @@ badd3c0dd5c7fbaeec8fe8139af3839a *inst/generate_style_funs.R
 8162c9f912ef094cbb8ea2574926b89b *man/clt_theme_light.Rd
 ef2fd4371055a568cede3b463adf392f *man/colt-package.Rd
 87e0fef49cb78fc23b0c41c60fa4a022 *man/colt_styles.Rd
-af80b9a6d1ac603a684693f31af3df6c *man/colt_theme.Rd
+36dc737d74fe621fda7d0ae3ed8ebfa8 *man/colt_theme.Rd
 a499e4ce07978b7f0494e5059e56a5c8 *man/print.colt_theme.Rd
